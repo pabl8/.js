@@ -1,0 +1,2 @@
+# .js
+son archivos js 
