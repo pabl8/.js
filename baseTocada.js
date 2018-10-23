@@ -967,7 +967,8 @@ function template_functions(){
 			"sDom": "<'row-fluid'<'span6'l><'span6'f>r>t<'row-fluid'<'span12'i><'span12 center'p>>",
 			"sPaginationType": "bootstrap",
 			"oLanguage": {
-				"sLengthMenu": "" /* Texto de buscar, que fue borrado porque aparecia en el dash de vendor como landing y confundia"
+				"sLengthMenu": "" /* Texto de buscar, que fue borrado porque aparecia en el dash de 
+				vendor como landing y confundia" */
 			}
 		} );
 	$('.btn-close').click(function(e){
